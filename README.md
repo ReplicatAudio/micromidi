@@ -17,4 +17,4 @@ The idea behind microtonal music is to explore the tones that we can get by usin
 You can also use Micromidi divide an octave by unequally. For example, you could use something like [just intonation](https://en.wikipedia.org/wiki/Just_intonation) which attempts to to assign all notes to frequencies that can be represented as whole number ratios. 
 
 ## What is a VST?
-A VST ([Virtual Studio Technology](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)) is a plugin for DAWs ([Digital Audio Workstations (https://en.wikipedia.org/wiki/Digital_audio_workstation)]). Examples of popular DAWs that this should work with are [Reaper](https://www.reaper.fm/) and [Ableton Live](https://www.ableton.com/en/). However this should work with just about any popular DAW. 
+A VST ([Virtual Studio Technology](https://en.wikipedia.org/wiki/Virtual_Studio_Technology)) is a plugin for DAWs ([Digital Audio Workstations](https://en.wikipedia.org/wiki/Digital_audio_workstation)). Examples of popular DAWs that this should work with are [Reaper](https://www.reaper.fm/)(tested) and [Ableton Live](https://www.ableton.com/en/). However this should work with just about any popular DAW. 
