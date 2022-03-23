@@ -6,6 +6,16 @@ Micromidi is a VST that enables you to experiment with, compose and preform micr
 * Assign pitch bend values to any notes in the octave
 * Remap midi input 
 
+## Requirements
+
+This plugin is built with [Cabbage](https://cabbageaudio.com/) and all Cabbage VSTs require a [cSound installation](https://csound.com/download.html). This is a free, open source library available for all major platforms. Please make sure you have this installed before continuing. 
+
+## Installation
+
+Grab the latest release from the releases section:
+
+[Releases](https://github.com/matdombrock/micromidi/releases/tag/latest)
+
 ## What is "microtonal" music?
 Modern western music divides an octave into 12 equally spaced tones. This tuning is known as 12tet or 12 tone equal temperament. In this system each tone in the octave can be considered to be separated by intervals called a semitone. 
 
